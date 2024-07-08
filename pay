@@ -1,0 +1,28 @@
+import secret
+import requests
+def account_number(account_num, accountname):
+    url = f"https://api.paystack.co/bank/resolve?account_number={account_num}&bank_code={accountname}"
+    headers = {
+        "Authorization": "Bearer " + secret.secret
+    }
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+         data = response.json()
+         return data
+     
+     
+def bank_code():
+     url = f"https://api.paystack.co/bank"
+     headers = {
+         "Authorization": "Bearer " + secret.secret
+     }
+     response = requests.get(url, headers=headers)
+     if response.status_code == 200:
+         data = response.json()['data']
+         for banks in data:
+         
+          print( banks['name'], banks['code'])
+   
+     
+bank_code()
+# print(account_number(2244559975, "033"))

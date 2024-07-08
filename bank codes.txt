@@ -1,0 +1,164 @@
+9mobile 9Payment Service Bank 120001
+Abbey Mortgage Bank 404
+Above Only MFB 51204
+Abulesoro MFB 51312
+Access Bank 044
+Access Bank (Diamond) 063
+Accion Microfinance Bank 602
+AG Mortgage Bank 90077
+Ahmadu Bello University Microfinance Bank 50036
+Airtel Smartcash PSB 120004
+AKU Microfinance Bank 51336
+Akuchukwu Microfinance Bank Limited 090561
+ALAT by WEMA 035A
+Amegy Microfinance Bank 090629
+Amju Unique MFB 50926
+AMPERSAND MICROFINANCE BANK 51341
+Aramoko MFB 50083
+ASO Savings and Loans 401
+Astrapolaris MFB LTD MFB50094
+AVUENEGBE MICROFINANCE BANK 090478
+AWACASH MICROFINANCE BANK 51351
+Bainescredit MFB 51229
+Banc Corp Microfinance Bank 50117
+Baobab Microfinance Bank MFB50992
+BellBank Microfinance Bank 51100
+Benysta Microfinance Bank Limited 51267
+Beststar Microfinance Bank 50123
+Bowen Microfinance Bank 50931
+Branch International Financial Services Limited FC40163
+Carbon 565
+Cashbridge Microfinance Bank Limited 51353
+CASHCONNECT MFB 865
+CEMCS Microfinance Bank 50823
+Chanelle Microfinance Bank Limited 50171
+Chikum Microfinance bank 312
+Citibank Nigeria 023
+CITYCODE MORTAGE BANK 070027
+Consumer Microfinance Bank 50910
+Corestep MFB 50204
+Coronation Merchant Bank 559
+County Finance Limited FC40128
+Crescent MFB 51297
+Crust Microfinance Bank 090560
+Davenport MICROFINANCE BANK 51334
+Dot Microfinance Bank 50162
+Ecobank Nigeria 050
+Ekimogun MFB 50263
+Ekondo Microfinance Bank 098
+EXCEL FINANCE BANK 090678
+Eyowo 50126
+Fairmoney Microfinance Bank 51318
+Fedeth MFB 50298
+Fidelity Bank 070
+Firmus MFB 51314
+First Bank of Nigeria 011
+First City Monument Bank 214
+FIRST ROYAL MICROFINANCE BANK 090164
+FirstTrust Mortgage Bank Nigeria 413
+FLOURISH MFB 50315
+FSDH Merchant Bank Limited 501
+FUTMINNA MICROFINANCE BANK 832
+Gateway Mortgage Bank LTD 812
+Globus Bank 00103
+Goldman MFB 090574
+GoMoney 100022
+GOOD SHEPHERD MICROFINANCE BANK 090664
+Goodnews Microfinance Bank 50739
+Greenwich Merchant Bank 562
+Guaranty Trust Bank 058
+Hackman Microfinance Bank 51251
+Hasal Microfinance Bank 50383
+HopePSB 120002
+Ibile Microfinance Bank 51244
+Ikoyi Osun MFB 50439
+Ilaro Poly Microfinance Bank 50442
+Imowo MFB 50453
+IMPERIAL HOMES MORTAGE BANK 415
+Infinity MFB 50457
+Jaiz Bank 301
+Kadpoly MFB 50502
+KANOPOLY MFB 51308
+Keystone Bank 082
+KONGAPAY (Kongapay Technologies Limited)(formerly Zinternet) 100025
+Kredi Money MFB LTD 50200
+Kuda Bank 50211
+Lagos Building Investment Company Plc. 90052
+Links MFB 50549
+Living Trust Mortgage Bank 031
+LOMA MFB 50491
+Lotus Bank 303
+MAINSTREET MICROFINANCE BANK 090171
+Mayfair MFB 50563
+Mint MFB 50304
+Money Master PSB 946
+Moniepoint MFB 50515
+MTN Momo PSB 120003
+MUTUAL BENEFITS MICROFINANCE BANK 090190
+NDCC MICROFINANCE BANK 090679
+NET MICROFINANCE BANK 51361
+Nigerian Navy Microfinance Bank Limited 51142
+NPF MICROFINANCE BANK 50629
+OPay Digital Services Limited (OPay) 999992
+Optimus Bank Limited 107
+Paga 100002
+PalmPay 999991
+Parallex Bank 104
+Parkway - ReadyCash 311
+PATHFINDER MICROFINANCE BANK LIMITED 090680
+Paystack-Titan 100039
+Peace Microfinance Bank 50743
+PECANTRUST MICROFINANCE BANK LIMITED 51226
+Personal Trust MFB 51146
+Petra Mircofinance Bank Plc 50746
+PFI FINANCE COMPANY LIMITED 050021
+Platinum Mortgage Bank 268
+Pocket App 00716
+Polaris Bank 076
+Polyunwana MFB 50864
+PremiumTrust Bank 105
+PROSPERIS FINANCE LIMITED 050023
+Providus Bank 101
+QuickFund MFB 51293
+Rand Merchant Bank 502
+RANDALPHA MICROFINANCE BANK 090496
+Refuge Mortgage Bank 90067
+REHOBOTH MICROFINANCE BANK 50761
+Rephidim Microfinance Bank 50994
+Rigo Microfinance Bank Limited 51286
+ROCKSHIELD MICROFINANCE BANK 50767
+Rubies MFB 125
+Safe Haven MFB 51113
+Safe Haven Microfinance Bank Limited 951113
+SAGE GREY FINANCE LIMITED 40165
+Shield MFB 50582
+Signature Bank Ltd 106
+Solid Allianze MFB 51062
+Solid Rock MFB 50800
+Sparkle Microfinance Bank 51310
+Stanbic IBTC Bank 221
+Standard Chartered Bank 068
+STANFORD MICROFINANCE BANK 090162
+STATESIDE MICROFINANCE BANK 50809
+Stellas MFB 51253
+Sterling Bank 232
+Suntrust Bank 100
+Supreme MFB 50968
+TAJ Bank 302
+Tangerine Money 51269
+TCF MFB 51211
+Titan Bank 102
+U&C Microfinance Bank Ltd (U AND C MFB) 50840
+Uhuru MFB 51322
+Unaab Microfinance Bank Limited 50870
+Unical MFB 50871
+Unilag Microfinance Bank 51316
+Union Bank of Nigeria 032
+United Bank For Africa 033
+Unity Bank 215
+Uzondu Microfinance Bank Awka Anambra State 50894
+Vale Finance Limited 050020
+VFD Microfinance Bank Limited 566
+Waya Microfinance Bank 51355
+Wema Bank 035
+Zenith Bank 057
